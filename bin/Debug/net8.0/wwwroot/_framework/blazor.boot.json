@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "School39.Landing",
   "resources": {
-    "hash": "sha256-moPsWOOD7xQZqPtJ+Gqr7YWyILk1Oy+N2VlFfD6tQwM=",
+    "hash": "sha256-G2KO2FpAxI5pEGzqegQSz8lxK+ktlpjwkiEE0mhlJ4Q=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.h8k8mpvatu.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "School39.Landing.wasm": "sha256-vhaor//gOZxfiViwbCeAEyTglRRk1sW5dZb94V+GS2U="
+      "School39.Landing.wasm": "sha256-eKcFcQARCRUqQfv/uDachinPv2HzscvotqfIJ/IBYnY="
     },
     "pdb": {
-      "School39.Landing.pdb": "sha256-MHc2+wyYc7ZXdt4eZL0iOeNMuuG/nxvfheoQ/WUMtH8="
+      "School39.Landing.pdb": "sha256-wvel0lWFbOnpxZ6MA1MbrgM0L0cEfzmmgk0GbeCjJgw="
     }
   },
   "cacheBootResources": true,
